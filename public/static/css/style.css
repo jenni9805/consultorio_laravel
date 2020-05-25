@@ -1,0 +1,36 @@
+body{
+    background-color: #f6f6f6;
+    margin: 0px;
+    font-size:  14px;
+}
+
+.box{
+    background-color: #fff;
+    border-radius: 8px;
+    border: 1px solid #d6d6d6;
+    position: absolute;
+    width: 500px;
+}
+
+.inside{
+    padding: 16px;
+}
+
+.mtop16{
+    margin-top: 16px;
+}
+
+.btn-success{
+    border: 0px;
+    background-color: #E85722;
+    width: 100%;
+}
+
+.footer>a{
+    text-align: center;
+    display: inline-block;
+    font-size: .8em;
+    margin-left: 24px;
+}
+                
+        
